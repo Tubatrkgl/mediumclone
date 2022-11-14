@@ -1,0 +1,31 @@
+body{
+    font-family: 'PT Serif', serif;
+    font-family: 'Righteous', cursive;
+}
+.img{
+    width: 50px;
+}
+    .bg-yellow{
+        background-color:#FFC017;
+    
+    }
+ 
+
+    .navbar-brand{
+        font-size:xxl;
+        margin-left: 4px;
+    
+    }
+    .nav-orta{
+    padding: auto;
+    }
+    .col-sm-8-section{
+        display: flex;
+        align-items:start;
+    }
+
+    .border-top{
+
+        border-top: 1px solid rgba(230, 230, 230, 1);
+    }
+  
